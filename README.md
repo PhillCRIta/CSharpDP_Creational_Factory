@@ -3,7 +3,7 @@ Those code examples about design pattern have the purpose of personal use, to ea
 
 The major source of the examples is a Youtube channel of [DoableDanny](https://www.youtube.com/@doabledanny/videos), he's a very good developer. I suggest to all to buy 📒his book about design pattern 📒 , it's very clear.
 
-# Factory patter
+# Factory pattern
  Factory method define an interface for creating object. \
  The subclasses can alter the type of objects that will be created. \
  It relies on inheritance and polymorphism to add program flexibility. \
